@@ -1,0 +1,8 @@
+Drax Nakmor;0;16;50;10;5;0;;Josh;true
+Xol-44;0;16;40;10;5;0;;Braden;true
+Michael Torrance;0;16;49;10;5;4;;Steven;true
+Harrot;0;15;40;10;5;0;;Neil;true
+KalAsari;0;14;40;10;5;3;;LeAnn;true
+Gar Loco;0;14;40;10;10;0;;Peter;true
+B8;0;14;35;10;5;0;Floating;Peter's Bot;true
+Paul;0;16;80;55;5;3;;Paul;true

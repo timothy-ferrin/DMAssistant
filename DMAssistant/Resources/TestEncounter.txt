@@ -1,0 +1,7 @@
+or;0;16;50;10;5;0;;Joshxx;true
+-44;0;16;40;10;5;0;;Bradenxx;true
+rrance;0;16;49;10;5;4;;Stevenxx;true
+rot;0;15;40;10;5;0;;Neilxx;true
+sari;0;14;40;10;5;3;;LeAnnxx;true
+oco;0;14;40;10;10;0;;Peterxx;true
+aul;0;16;80;55;5;3;;Paulxx;true
